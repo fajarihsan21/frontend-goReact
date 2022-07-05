@@ -1,0 +1,28 @@
+.nav {
+    position: relative;
+    width: 100%;
+    padding: 20px 0;
+    transition: all 0.4s ease;
+}
+
+.logo {
+    width: 40%;
+    height: 40%;
+    align-items: top;
+    size: 5px; 
+}
+
+.navbar {
+    margin: auto;
+    margin-left: 70%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.button {
+    min-width: 30%;
+    width: 30%;
+    margin: auto;
+    margin-right: 10px;
+}
